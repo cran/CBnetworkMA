@@ -1,0 +1,17 @@
+23fdfc0dd6a0ce23020f989b65325cf9 *DESCRIPTION
+623754f788af21eae362ce754cc9bdc3 *NAMESPACE
+2caa88a889648abfec73727645eb5a9a *R/Network_postprocess.R
+34c45868d92d7e907bc4a8ae0981092a *R/Rutils.R
+97b491834e941c60936c1392b9785608 *R/clique_extract.R
+6b67c476472a4a89936cf1e83918a191 *R/networkMA_wrapper.R
+ceb5ee461f2bd618f6bfec41d86291f9 *data/smokingCessation.RData
+a66569ff55519bcd81c8e58254561131 *man/clique_extract.Rd
+374f0f09787960d6f1d287fd823821f5 *man/networkMA.Rd
+9336d7ad841bb1c421c9873c9541456d *man/network_graphs.Rd
+d03dff69a4379f44e9d94dc4da5aed7c *man/smokingCessation.Rd
+8dadec9b6781567ce27571653819750b *src/Rutil.c
+9e6fa15a1ef455c036b93ff820c22faa *src/Rutil.h
+de75aea2507cac10d14a75c246267c84 *src/init.c
+eebece8e77090ec713c9462d49f03052 *src/matrix.c
+59361ca1e7c67019f745b86ca5cc5d99 *src/matrix.h
+686d8fab4598b1f7640d165d94688db0 *src/networkMA.c

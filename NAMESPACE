@@ -1,0 +1,10 @@
+useDynLib(CBnetworkMA)
+
+export(networkMA)
+export(network_graphs)
+export(clique_extract)
+
+
+
+importFrom("stats", "dnorm")
+importFrom("utils", "combn")
